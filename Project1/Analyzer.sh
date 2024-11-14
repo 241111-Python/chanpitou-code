@@ -1,0 +1,1 @@
+grep guesses ./Easy_Level_log.txt | cut -d ' ' -f2

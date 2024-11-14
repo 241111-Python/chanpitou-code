@@ -1,0 +1,30 @@
+_____________________
+Name: Chanpitou Um
+guesses: 4
+_____________________
+Name: Chanpitou Um
+guesses: 3
+_____________________
+Name: Chanpitou Um
+guesses: 3
+_____________________
+Name: Chanpitou Um
+guesses: 1
+_____________________
+Name: user1
+guesses: 2
+_____________________
+Name: asdqwq
+guesses: 3
+_____________________
+Name: user_test
+guesses: 2
+_____________________
+Name: test
+guesses: 3
+_____________________
+Name: test
+guesses: 1
+_____________________
+Name: test
+guesses: 4

@@ -3,7 +3,7 @@
 */.vscode/*
 *.kate-swp
 Generated\ Files/*
-
+Notes
 *.log
 *.obj
 *.bin

@@ -1,0 +1,24 @@
+_____________________
+Name: Chanpitou Um
+guesses: 5
+_____________________
+Name: user1
+guesses: 7
+_____________________
+Name: user1
+guesses: 6
+_____________________
+Name: user2
+guesses: 6
+_____________________
+Name: user1
+guesses: 5
+_____________________
+Name: user2
+guesses: 4
+_____________________
+Name: test
+guesses: 3
+_____________________
+Name: test
+guesses: 6
