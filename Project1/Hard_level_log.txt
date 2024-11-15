@@ -25,3 +25,6 @@ guesses: 14
 _____________________
 Name: test_jj
 guesses: 21
+_____________________
+Name: test_jj
+guesses: 17

@@ -40,3 +40,12 @@ guesses: 3
 _____________________
 Name: test_jj
 guesses: 2
+_____________________
+Name: test_123
+guesses: 4
+_____________________
+Name: test_123
+guesses: 2
+_____________________
+Name: test_123
+guesses: 3

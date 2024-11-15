@@ -277,3 +277,20 @@ Hard Level Section:
 Total games played (H): 9
 Best attemp (H): 8
 The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Fri Nov 15 09:05:03 CST 2024________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13

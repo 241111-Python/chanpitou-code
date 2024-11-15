@@ -31,3 +31,9 @@ guesses: 5
 _____________________
 Name: test_jj
 guesses: 8
+_____________________
+Name: test_jj
+guesses: 4
+_____________________
+Name: test_jj
+guesses: 5
