@@ -126,3 +126,154 @@ Hard Level Section:
 Total games played (H): 9
 Best attemp (H): 8
 The average number of guesses (H): 13
+_____________________________________________________________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Thu Nov 14 20:21:01 CST 2024_______________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Thu Nov 14 20:22:03 CST 2024________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Fri Nov 15 08:44:01 CST 2024________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Fri Nov 15 08:45:02 CST 2024________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Fri Nov 15 08:50:02 CST 2024________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Fri Nov 15 08:55:03 CST 2024________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13
+_____________________________________________________________________
+______________Timestamp: Fri Nov 15 09:00:03 CST 2024________________
+_____________________________________________________________________
+Easy Level Section:
+Total games played (E): 14
+Best attemp (E): 1
+The average number of guesses (E): 2
+___________________________________________
+Normal Level Section:
+Total games played (N): 11
+Best attemp (N): 3
+The average number of guesses (N): 5
+___________________________________________
+Hard Level Section:
+Total games played (H): 9
+Best attemp (H): 8
+The average number of guesses (H): 13

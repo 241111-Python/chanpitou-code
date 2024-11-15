@@ -8,6 +8,7 @@ read -r name
 
 echo ' '
 
+# Make the game re-playable using loop
 while true; do
 
 	echo "Challenge levels:"	
@@ -26,19 +27,21 @@ while true; do
 	echo "________________________"
 	echo "Game, start!"
 	
+	# Generate random number base on the chosen level
 	RANDOM_GENERATED_NUMBER=0	
 	
 	if [[ $level == "Easy" ]]; then
-		RANDOM_GENERATED_NUMBER=$((1 + $RANDOM % 10))
+		RANDOM_GENERATED_NUMBER=$((1 + $RANDOM % 10))         # Easy Level (1 ~ 10)
 		echo -n "Please pick a number between (1 - 10): "
 	elif [[ $level == "Normal" ]]; then
-		RANDOM_GENERATED_NUMBER=$((1 + $RANDOM % 100))
+		RANDOM_GENERATED_NUMBER=$((1 + $RANDOM % 100))		  # Normal Level (1 ~ 100)
 		echo -n "Please pick a number between (1 - 100): "
 	else
-		RANDOM_GENERATED_NUMBER=$((1 + $RANDOM % 1000))
+		RANDOM_GENERATED_NUMBER=$((1 + $RANDOM % 1000))	      # Hard Level (1 ~ 1000)
 		echo -n "Please pick a number between (1 - 1000): "
 	fi
 	
+	# Now the game begins, player will try to guess the correct # using given feedbacks
 	guesses=0
 	while true; do
 
@@ -69,6 +72,7 @@ while true; do
 		
 	done
 	
+	# allow player to have another go
 	echo ' '
 	echo -n "Would you like to play again? (y/n): "
 	read -r continue

@@ -17,7 +17,7 @@ done < <(grep "guesses" /mnt/c/Revature/chanpitou-code/Project1/Easy_Level_log.t
 average
 
 echo "_____________________________________________________________________" >> /mnt/c/Revature/chanpitou-code/Project1/statistics.txt
-echo "______________Timestamp: $(date)_______________" >> /mnt/c/Revature/chanpitou-code/Project1/statistics.txt/statistics.txt
+echo "______________Timestamp: $(date)________________" >> /mnt/c/Revature/chanpitou-code/Project1/statistics.txt
 echo "_____________________________________________________________________" >> /mnt/c/Revature/chanpitou-code/Project1/statistics.txt
 
 echo "Easy Level Section:" >> /mnt/c/Revature/chanpitou-code/Project1/statistics.txt
