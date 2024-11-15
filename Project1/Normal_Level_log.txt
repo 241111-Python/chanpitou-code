@@ -37,3 +37,6 @@ guesses: 4
 _____________________
 Name: test_jj
 guesses: 5
+_____________________
+Name: Chanpitou
+guesses: 7
