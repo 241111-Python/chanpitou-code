@@ -68,7 +68,8 @@ while true; do
 		fi
 		
 	done
-
+	
+	echo ' '
 	echo -n "Would you like to play again? (y/n): "
 	read -r continue
 	if [[ $continue == 'n' ]]; then

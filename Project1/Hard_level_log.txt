@@ -14,5 +14,14 @@ _____________________
 Name: user3
 guesses: 12
 _____________________
-Name: Chanpitou Um
+Name: Chanpitou
 guesses: 11
+_____________________
+Name: test_user22
+guesses: 18
+_____________________
+Name: test_user22
+guesses: 14
+_____________________
+Name: test_jj
+guesses: 21

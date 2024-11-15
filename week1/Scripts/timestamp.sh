@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-echo $(date) >> ./log.txt
+echo $(date) >> /mnt/c/Revature/chanpitou-code/week1/Scripts/log.txt

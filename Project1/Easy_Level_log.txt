@@ -28,3 +28,15 @@ guesses: 1
 _____________________
 Name: test
 guesses: 4
+_____________________
+Name: test_user22
+guesses: 6
+_____________________
+Name: Test_user123
+guesses: 2
+_____________________
+Name: test_jj
+guesses: 3
+_____________________
+Name: test_jj
+guesses: 2
