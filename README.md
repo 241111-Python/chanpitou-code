@@ -1,6 +1,3 @@
+Welcome to my Repository!
 
-Welcome to the cohort!
-
-Let's get this training going!
-
-__________________________________
+You can my projects code as well as example in here.

@@ -52,3 +52,6 @@ guesses: 3
 _____________________
 Name: Chanpitou
 guesses: 3
+_____________________
+Name: Chanpitou
+guesses: 2
